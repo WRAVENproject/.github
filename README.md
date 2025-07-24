@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/static/v1?message=Blog&logo=hashnode&label=&color=52CFC3&logoColor=white&labelColor=&style=for-the-badge" height="38" />
   </a>
   <a href="https://public.wraven.org/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Threat Dashboard&logo=monitor&label=&color=ff4444&logoColor=white&labelColor=&style=for-the-badge" height="38" />
+    <img src="https://img.shields.io/static/v1?message=Threat Dashboard&label=&color=ff4444&labelColor=&style=for-the-badge" height="38" />
   </a>
   <a href="https://wraven.org/discord" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="38" />
@@ -36,7 +36,7 @@
     <img src="https://img.shields.io/static/v1?message=ExperienceWMU&logo=linkedin&label=&color=FFA200&logoColor=white&labelColor=&style=for-the-badge" height="38" />
   </a>
   <a href="https://cclub.cs.wmich.edu/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=WMU Computer Club&logo=raspberrypi&label=&color=8B5117&logoColor=white&labelColor=&style=for-the-badge" height="38" />
+    <img src="https://img.shields.io/static/v1?message=WMU Computer Club&label=&color=8B5117&labelColor=&style=for-the-badge" height="38" />
   </a>
 </div>
 

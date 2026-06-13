@@ -45,7 +45,7 @@
 ## About WRAVEN
 
 WRAVEN (Western Research Advisory for Vulnerabilities, Exploits & Networks) is a student-led cybersecurity team at Western Michigan University.  
-We run monitor threat actors, publish research, build open-source tools, and host trainings for students who want to break stuff (legally) and learn fast.
+We monitor threat actors, publish research, build open-source tools, and host trainings for students who want to break stuff (legally) and learn fast.
 
 - Weekly meetings, open to all skill levels  
 - Real threat actor tracking, malware analysis, and CTF training  
@@ -54,8 +54,6 @@ We run monitor threat actors, publish research, build open-source tools, and hos
 
 We're fiscally sponsored by [The Hack Foundation (Hack Club)](https://hackclub.com/bank), a 501(c)(3) nonprofit (EIN: 81-2908499).  
 That means all donations are tax-deductible and directly fund student cybersecurity work.
-
-> 🛠 We don't do cybersecurity theater. We build ops-grade systems, publish real data, and train the next gen of threat analysts.
 
 ---
 
